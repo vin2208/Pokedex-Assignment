@@ -1,13 +1,15 @@
 body {
   padding-top: 50px;
+  background-color: #2f4945;
 }
 
 .navbar-brand {
-  font-weight: 800;
+  font-weight: 600;
+  margin-left:auto ;
 }
 
 .navbar-brand img {
-  width: 24px;
+  width: 35px;
 }
 
 .avatar {
@@ -17,6 +19,7 @@ body {
 
 .nav-tabs {
   margin-bottom: 10px;
+  background-color: #4e8234;
 }
 
 .form-group {
